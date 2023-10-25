@@ -1,0 +1,9 @@
+.screenroot{
+    -fx-background-color: rgb(182, 122, 182);
+}
+
+.button{
+    -fx-background-color: purple;
+    -fx-text-fill: white;
+    -fx-font-weight:bold;
+}
